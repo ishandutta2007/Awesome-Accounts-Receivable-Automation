@@ -1,199 +1,86 @@
-# Awesome-Accounts-Receivable-Automation
+# 💰 Awesome Accounts Receivable Automation 🚀
 
-## Top Accounts Receivable Automation Ecosystem
+![Awesome Accounts Receivable Automation Banner](assets/banner.svg)
 
+[![Awesome](https://awesome.re/badge.svg)](https://github.com/ishandutta2007/Awesome-Accounts-Receivable-Automation)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
 
-
-**Curated List of SaaS Products & Open-Source GitHub Projects**  
-
-*Focused on Invoice-to-Cash, Collections, Cash Application, Dunning, AR Analytics & Credit Management*  
-
-**Last updated: September 2026**
-
-
-
-This repository tracks notable **SaaS platforms** and **open-source projects** for **Accounts Receivable (AR) Automation**. These systems streamline invoicing, payment collection, cash application, dunning/collections workflows, customer portals, and AR analytics so finance teams can reduce DSO and improve cash flow.
-
-
-
-**Examples** include HighRadius, Versapay, Billtrust, YayPay, BlackLine, Upflow, Chaser, Quadient AR, Invoiced, Kolleno, Sidetrade, Growfin, and Serrala (the category leaders).
-
-
-
-**Open-source emphasis**: Full-featured enterprise AR automation (cash application, predictive collections, multi-ERP integration) is dominated by commercial vendors. Open-source options are stronger at the invoicing and basic collections layer—**InvoiceShelf**, ERP modules (ERPNext/Odoo), and emerging open AR initiatives. This section lists every significant relevant project found.
-
-
-
-Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
-
-
-
-## Table of Contents
-
-- [SaaS/Hosted Platforms](#saas-hosted-platforms)
-
-- [Open-Source GitHub Projects](#open-source-github-projects)
-
-- [How to Contribute](#how-to-contribute)
-
-- [Disclaimer](#disclaimer)
-
-
-
-## SaaS/Hosted Platforms
-
-
-
-- **[HighRadius](https://www.highradius.com/)**  
-
-  Enterprise AR automation platform covering order-to-cash, cash application, collections, credit, and related finance processes with strong AI/automation capabilities.
-
-
-
-- **[Versapay, Billtrust](https://www.versapay.com/)**  
-
-  Platforms focused on invoice presentment, payments, cash application, and collaborative AR workflows between suppliers and buyers.
-
-
-
-- **[BlackLine](https://www.blackline.com/)**  
-
-  Financial close and accounting automation suite with AR and reconciliation capabilities used by large enterprises.
-
-
-
-- **[YayPay, Upflow, Chaser, Kolleno, Invoiced](https://www.yaypay.com/)**  
-
-  Modern AR and collections platforms emphasizing automated dunning, customer communication, payment portals, and cash-flow visibility—popular with mid-market and SaaS companies.
-
-
-
-- **[Sidetrade, Growfin, Quadient AR, Serrala](https://www.sidetrade.com/)**  
-
-  Additional solutions for order-to-cash, collections intelligence, invoice-to-cash automation, and AR process optimization.
-
-
-
-- **[Other commercial AR automation platforms](https://www.highradius.com/)**  
-
-  Tools supporting electronic invoicing, payment matching, dispute management, and AR analytics.
-
-
-
-## Open-Source GitHub Projects
-
-
-
-- **[InvoiceShelf](https://github.com/InvoiceShelf/InvoiceShelf)**  
-
-  Open-source, self-hosted invoicing solution for creating invoices and estimates, tracking payments and expenses, recurring billing, and customer portals (AGPL). Strong foundation for basic AR workflows.
-
-
-
-- **[Accounts Receivable & Collections (emerging initiative)](https://github.com/worlds-biggest-software-project/063-accounts-receivable-collections)**  
-
-  Open-source / AI-native concept project aiming at invoicing, dunning, cash application, and aging analytics for mid-market teams that have outgrown basic ERP AR modules.
-
-
-
-- **[HiveAR / OpenAR Collective (design & platform efforts)](https://github.com/OpenAR-Collective)**  
-
-  Vendor-neutral open initiative exploring free, self-hosted accounts receivable and debt-collection platform architecture.
-
-
-
-- **[ERPNext / Odoo AR & invoicing modules](https://github.com/frappe/erpnext)**  
-
-  Mature open-source ERP systems with invoicing, payment tracking, dunning-like reminders, and receivables reports that many organizations use as a base AR system.
-
-
-
-- **[Other open invoicing platforms](https://github.com/search?q=open+source+invoicing+OR+invoice+management)**  
-
-  Additional self-hosted invoicing and billing projects suitable for freelancers and small businesses.
-
-
-
-- **[Payment reminder & dunning open tools](https://github.com/search?q=payment+reminder+OR+dunning+OR+collections+open+source)**  
-
-  Scripts and simple applications for automated payment reminders and basic collections sequences.
-
-
-
-- **[Cash application & matching prototypes](https://github.com/search?q=cash+application+OR+payment+matching+open+source)**  
-
-  Experimental tools for matching payments to invoices—still far from enterprise-grade automation.
-
-
-
-- **[Finance agent / automation experiments](https://github.com/search?q=invoice+automation+OR+AR+agent+open+source)**  
-
-  Emerging AI-assisted workflows for invoice handling and related finance processes (often more AP-focused but adaptable).
-
-
-
-### Additional Strong Open-Source Options
-
-
-
-- **Invoicing core**: InvoiceShelf and similar self-hosted invoicing apps for invoice generation, payment recording, and customer portals.
-
-- **ERP-embedded AR**: ERPNext or Odoo as a broader system that includes solid receivables functionality.
-
-- **Emerging full AR platforms**: Early open initiatives targeting dunning, cash application, and analytics.
-
-- **Composable stacks**: Invoicing tool + email automation for reminders + spreadsheet/BI for aging reports.
-
-- Enterprise cash application, AI collections prioritization, and multi-entity scale remain commercial strengths.
-
-
-
-**Frameworks for building custom systems**:  
-
-**InvoiceShelf** and open ERP modules (**ERPNext**, **Odoo**) provide the most practical open foundations for invoicing and basic receivables tracking.  
-
-Emerging projects aim at fuller AR automation (dunning, cash application, analytics) but are not yet mature replacements for commercial platforms.  
-
-Commercial AR automation (HighRadius, Versapay, Billtrust, YayPay, Upflow, BlackLine, etc.) delivers intelligent cash application, predictive collections, customer collaboration portals, and deep ERP integrations.  
-
-Smaller organizations can run open invoicing + reminder workflows successfully; mid-market and enterprise finance teams typically adopt commercial AR automation to reduce DSO and manual effort at scale.
-
-
-
-## How to Contribute
-
-
-
-1. Fork the repo.
-
-2. Add/edit entries in `README.md` (follow existing format).
-
-3. Include: name, link, 1–2 sentence description, and whether it's SaaS or open-source.
-
-4. Submit PR with a short explanation.
-
-
-
-Star the repo if you find it useful!
-
-
-
-## Disclaimer
-
-
-
-- This is a **community-curated** list — not exhaustive and not an endorsement.
-
-- AR systems handle financial and customer data. Ensure security, accurate payment application, audit trails, and compliance with accounting and privacy requirements.
-
-- Open-source tools offer data ownership and zero license fees but require hosting, maintenance, and careful design of collection communications (legal and reputational considerations apply). Commercial platforms shift operational and support burden to the vendor. Validate fit and controls before relying on any system for production cash application or collections.
-
-
+> ⚡ **A curated list of Enterprise SaaS Platforms, Open-Source Software, and AI Tools for Accounts Receivable (AR) Automation, Invoice-to-Cash (I2C), Automated Dunning, Cash Application, and AR Analytics.**
 
 ---
 
+## 📑 Table of Contents
+- [📈 Industry Overview & Market Insights](#-industry-overview--market-insights)
+- [🏢 SaaS & Commercial Platforms](#-saas--commercial-platforms)
+- [💻 Open-Source GitHub Projects](#-open-source-github-projects)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [⚠️ Disclaimer](#%EF%B8%8F-disclaimer)
 
+---
 
-**Made for finance leaders, AR managers, controllers, and FinOps teams improving invoice-to-cash performance.**  
+## 📈 Industry Overview & Market Insights
 
-Let's expand open options for transparent receivables management while recognizing the automation depth and scale that leading commercial Accounts Receivable platforms deliver.
+> 💡 **Market Size & Fragmentation:**  
+> The global **Accounts Receivable Automation Market** size was valued at approximately **$2.5 Billion to $3.2 Billion in 2025** and is projected to expand at a Compound Annual Growth Rate (CAGR) of **12.5% to 14.2%**, reaching over **$7.5 Billion by 2032**.  
+> The sector is **moderately fragmented**: enterprise cash application and complex multi-ERP order-to-cash workflows are led by major consolidated players (such as HighRadius, BlackLine, and Billtrust), while the mid-market and SMB automated dunning and customer portal segments remain active with fast-growing specialized SaaS vendors and emerging open-source stacks.
+
+---
+
+## 🏢 SaaS & Commercial Platforms
+
+Below is a comparative breakdown of top commercial Accounts Receivable (AR) platforms, sorted by corporate valuation / revenue (descending).
+
+| 🏢 Platform | 💰 Valuation / Scale (Descending) | 🏷️ Starting Price | 🆓 Free Plan / Trial Limit | 🔑 Key Capabilities |
+| :--- | :--- | :--- | :--- | :--- |
+| **[HighRadius](https://www.highradius.com/)** | **$3.10 Billion (Valuation)** / ~$500M+ ARR | ~$50,000 / year (or Outcome-Based gain share) | ❌ **None** (Complimentary process assessment & guided demo) | Autonomous O2C, AI credit scoring, predictive cash application & collections. |
+| **[BlackLine](https://www.blackline.com/)** | **$1.73 Billion (Market Cap)** / ~$730M Annual Revenue | ~$13,000 / year (modular enterprise licensing) | ❌ **None** (Personalized product demo only) | Financial close, automated transaction matching, order-to-cash & cash application. |
+| **[Billtrust](https://www.billtrust.com/)** | **$1.50 Billion (Acquisition Valuation)** / ~$96.4M Revenue | ~$20,000 / year (custom volume pricing) | ❌ **None** (Guided ERP integration demo only) | Electronic invoice presentment, automated payment matching & B2B portal. |
+| **[Quadient AR](https://www.quadient.com/)** *(formerly YayPay)* | **$480 Million (Parent Market Cap)** / ~$1.18B Parent Revenue | ~$10,000 / year (custom quote by invoice volume) | ❌ **None** (Zero-commitment custom demo available) | B2B payment portals, automated dunning, credit risk scoring & ERP integrations. |
+| **[Versapay](https://www.versapay.com/)** | **$100 Million+ (Valuation)** / ~$42M Revenue | ~$15,000 / year (custom quote by transaction volume) | ❌ **None** (Personalized consultation & demo) | Collaborative AR, buyer-supplier payments network & cash application. |
+| **[Chaser](https://www.chaserhq.com/)** | **$15 Million (Est. Valuation)** / ~$5M Revenue | **$259 / month** (Compact plan, billed annually) | ⏱️ **10-Day Free Trial** (No credit card required) | Automated email/SMS payment reminders, credit checking & outsourced collections. |
+| **[Invoiced](https://www.invoiced.com/)** | **$10 Million (Est. Valuation)** / ~$4M Revenue | ~$500 / month (custom SMB / mid-market quote) | ⏱️ **14-Day Free Trial** (Or personalized product demo) | Subscription billing, customer self-service payment portal & automated dunning sequences. |
+| **[Kolleno](https://www.kolleno.com/)** | **$8 Million (Est. Valuation)** / ~$2M Revenue | ~$350 / month (custom mid-market tier) | ⏱️ **14-Day Free Trial** (Available upon request) | AI-first receivables management, omnichannel communications & reconciliation. |
+| **[Upflow](https://upflow.io/)** | **$6 Million (Est. Valuation)** / ~$2M Revenue | ~$400 / month (custom quote based on AR volume) | ⏱️ **14-Day Free Trial** (Or live interactive demo) | Financial Relationship Management (FRM), executive cash dashboards & dunning. |
+| **[Growfin](https://www.growfin.ai/)** | **$5 Million (Est. Valuation)** / ~$1.5M Revenue | ~$300 / month (custom SaaS AR tier) | ⏱️ **14-Day Free Trial** (Available for qualified finance teams) | Real-time AR collaboration, cash flow forecasting & multi-currency billing integration. |
+
+---
+
+## 💻 Open-Source GitHub Projects
+
+Explore top self-hosted and open-source software solutions for invoicing, receivables tracking, payment collection, and ERP integration. Repositories are sorted by GitHub Star Count (descending).
+
+| 📦 Repository & Description | ⭐ Star Count Badge | 🛠️ Tech Stack & Highlights |
+| :--- | :--- | :--- |
+| **[Odoo](https://github.com/odoo/odoo)**  <br> Full-featured open-source ERP suite featuring robust invoicing, payment gateways, dunning reminders, and receivables management. | [![Odoo Stars](https://img.shields.io/github/stars/odoo/odoo?style=social&color=white)](https://github.com/odoo/odoo/stargazers) | Python, JavaScript, PostgreSQL • Full ERP & Receivables |
+| **[ERPNext](https://github.com/frappe/erpnext)**  <br> Enterprise open-source ERP system with native invoicing, customer portals, accounts receivable ledgers, and automated payment requests. | [![ERPNext Stars](https://img.shields.io/github/stars/frappe/erpnext?style=social&color=white)](https://github.com/frappe/erpnext/stargazers) | Python, Frappe Framework, MariaDB • Enterprise Accounting |
+| **[Invoice Ninja](https://github.com/invoiceninja/invoiceninja)**  <br> Leading open-source invoice and billing application for freelancers and businesses with online payments, client portal, and quotes. | [![InvoiceNinja Stars](https://img.shields.io/github/stars/invoiceninja/invoiceninja?style=social&color=white)](https://github.com/invoiceninja/invoiceninja/stargazers) | PHP (Laravel), Flutter • Self-Hosted Invoicing & Billing |
+| **[Crater](https://github.com/crater-invoice/crater)**  <br> Open-source web & mobile invoicing application built to track expenses, estimate costs, and collect payments easily. | [![Crater Stars](https://img.shields.io/github/stars/crater-invoice/crater?style=social&color=white)](https://github.com/crater-invoice/crater/stargazers) | PHP (Laravel), Vue.js, React Native • Mobile & Web AR |
+| **[Kill Bill](https://github.com/killbill/killbill)**  <br> Open-source subscription billing and payment platform enabling complex recurring revenue and invoice generation. | [![Kill Bill Stars](https://img.shields.io/github/stars/killbill/killbill?style=social&color=white)](https://github.com/killbill/killbill/stargazers) | Java • Open SaaS & Recurring Receivables |
+| **[InvoiceShelf](https://github.com/InvoiceShelf/InvoiceShelf)**  <br> Self-hosted open-source invoicing platform for generating invoices, tracking payments, managing recurring billing, and client communication. | [![InvoiceShelf Stars](https://img.shields.io/github/stars/InvoiceShelf/InvoiceShelf?style=social&color=white)](https://github.com/InvoiceShelf/InvoiceShelf/stargazers) | PHP (Laravel), Vue.js • Invoicing & Customer Portals |
+| **[OpenAR / Accounts Receivable Initiative](https://github.com/worlds-biggest-software-project/063-accounts-receivable-collections)**  <br> AI-native open-source concept repository focused on mid-market dunning, cash application matching, and aging analytics. | [![OpenAR Stars](https://img.shields.io/github/stars/worlds-biggest-software-project/063-accounts-receivable-collections?style=social&color=white)](https://github.com/worlds-biggest-software-project/063-accounts-receivable-collections/stargazers) | Python, TypeScript • AI-Native Collections & Cash App |
+
+---
+
+## 🤝 How to Contribute
+
+Contributions are welcome! Please follow these simple steps:
+
+1. 🍴 **Fork the repository**
+2. 📝 **Add or update entries** in `README.md` (keep formatting consistent with existing tables)
+3. 📌 **Include essential details**: Name, website/repo link, clear description, pricing/stars, and categories.
+4. 📬 **Submit a Pull Request** with a brief summary of additions.
+
+⭐ **If you find this repository helpful, give it a star!**
+
+---
+
+## ⚠️ Disclaimer
+
+- This list is **community-curated** for informational and educational purposes only.
+- Accounts Receivable tools process sensitive financial data. Ensure proper security compliance, payment application accuracy, and data protection before deploying in production environments.
+- Open-source solutions provide full data ownership but require self-hosting infrastructure and routine maintenance. Commercial solutions transfer operational burdens to SaaS vendors.
+
+---
+
+**Made with ❤️ for CFOs, Controllers, FinOps Teams, and AR Automation Engineers.**
