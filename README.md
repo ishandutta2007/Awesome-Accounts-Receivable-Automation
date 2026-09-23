@@ -48,9 +48,9 @@ Below is a comparative breakdown of top commercial Accounts Receivable (AR) plat
 
 ## 💻 Open-Source GitHub Projects
 
-Explore top self-hosted and open-source software solutions for invoicing, receivables tracking, payment collection, and ERP integration. Repositories are sorted by GitHub Star Count (descending).
+Explore top self-hosted and open-source software solutions for invoicing, receivables tracking, payment collection, and ERP integration. Repositories are sorted by GitHub Stars_Count (descending).
 
-| 📦 Repository & Description | ⭐ Star Count Badge | 🛠️ Tech Stack & Highlights |
+| 📦 Repository & Description | ⭐ Stars_Count Badge | 🛠️ Tech Stack & Highlights |
 | :--- | :--- | :--- |
 | **[Odoo](https://github.com/odoo/odoo)**  <br> Full-featured open-source ERP suite featuring robust invoicing, payment gateways, dunning reminders, and receivables management. | [![Odoo Stars](https://img.shields.io/github/stars/odoo/odoo?style=social&color=white)](https://github.com/odoo/odoo/stargazers) | Python, JavaScript, PostgreSQL • Full ERP & Receivables |
 | **[ERPNext](https://github.com/frappe/erpnext)**  <br> Enterprise open-source ERP system with native invoicing, customer portals, accounts receivable ledgers, and automated payment requests. | [![ERPNext Stars](https://img.shields.io/github/stars/frappe/erpnext?style=social&color=white)](https://github.com/frappe/erpnext/stargazers) | Python, Frappe Framework, MariaDB • Enterprise Accounting |
