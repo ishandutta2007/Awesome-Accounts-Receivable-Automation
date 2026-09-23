@@ -2,9 +2,7 @@
 
 ![Awesome Accounts Receivable Automation Banner](assets/banner.svg)
 
-[![Awesome](https://awesome.re/badge.svg)](https://github.com/ishandutta2007/Awesome-Accounts-Receivable-Automation)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
+<a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a> [![Awesome](https://awesome.re/badge.svg)](https://github.com/ishandutta2007/Awesome-Accounts-Receivable-Automation) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com) <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
 > ⚡ **A curated list of Enterprise SaaS Platforms, Open-Source Software, and AI Tools for Accounts Receivable (AR) Automation, Invoice-to-Cash (I2C), Automated Dunning, Cash Application, and AR Analytics.**
 
@@ -15,6 +13,8 @@
 - [🏢 SaaS & Commercial Platforms](#-saas--commercial-platforms)
 - [💻 Open-Source GitHub Projects](#-open-source-github-projects)
 - [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support & Sponsorship](#-support--sponsorship)
+- [📈 Star History](#-star-history)
 - [⚠️ Disclaimer](#%EF%B8%8F-disclaimer)
 
 ---
@@ -71,7 +71,21 @@ Contributions are welcome! Please follow these simple steps:
 3. 📌 **Include essential details**: Name, website/repo link, clear description, pricing/stars, and categories.
 4. 📬 **Submit a Pull Request** with a brief summary of additions.
 
-⭐ **If you find this repository helpful, give it a star!**
+---
+
+## 💖 Support & Sponsorship
+
+Thank you for exploring and using this repository! If you find this list helpful for your finance workflows or open-source projects, please consider supporting the project:
+
+- ⭐ **Star this repository** on GitHub to show your appreciation and help others discover it.
+- 🔀 **Fork & Share** it with your colleagues, finance automation teams, and developer community.
+- ☕ **Buy me a coffee / Sponsor**: You can sponsor ongoing maintenance and open-source updates via the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007).
+
+---
+
+## 📈 Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Accounts-Receivable-Automation&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Accounts-Receivable-Automation&type=date&legend=top-left)
 
 ---
 
